@@ -13,4 +13,3 @@ When the user's prompt starts with the words `ask mode` (case-insensitive):
 - Provide only answers, explanations, guidance, examples, and step-by-step instructions.
 - Remain in ask mode for that request even if the requested task would normally imply implementation.
 - Make changes only after the user explicitly asks for implementation in a later prompt that does not start with `ask mode`.
-a
