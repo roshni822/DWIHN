@@ -1,0 +1,16 @@
+---
+description: Keep prompts beginning with "ask mode" strictly read-only and advisory
+alwaysApply: true
+---
+
+# Ask Mode
+
+When the user's prompt starts with the words `ask mode` (case-insensitive):
+
+- Do not modify, create, delete, rename, move, format, or implement anything in the project or filesystem.
+- Do not run commands or tools that can change files, dependencies, configuration, services, repositories, or other project state.
+- Read-only inspection is allowed when it helps answer the question.
+- Provide only answers, explanations, guidance, examples, and step-by-step instructions.
+- Remain in ask mode for that request even if the requested task would normally imply implementation.
+- Make changes only after the user explicitly asks for implementation in a later prompt that does not start with `ask mode`.
+a

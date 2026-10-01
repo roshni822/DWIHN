@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="DWIHN AI">
+  <rect width="64" height="64" rx="12" fill="#16324f"/>
+  <rect x="6" y="6" width="52" height="8" rx="4" fill="#087f8c"/>
+  <text x="32" y="46" fill="#ffffff" font-family="Arial, sans-serif" font-size="30" font-weight="700" text-anchor="middle">AI</text>
+</svg>

@@ -1,0 +1,6 @@
+{"kind":"deck","id":"pr/yb8t1d","name":"Deck"}
+{"kind":"layout","layoutId":"a1c4eeff-cbd0-47e8-9326-485577b616d8","name":"Master","type":"master"}
+{"kind":"layout","layoutId":"f8f54ef1-fc87-40d0-ba1a-766cc0b7f3ac","name":"Title Slide","type":"title"}
+{"kind":"slide","id":"sl/nr4mc9","slide":1,"title":"First item","textShapes":1}
+{"kind":"textbox","id":"sh/36tovi50","slide":1,"text":"First item\nSecond item\nThird item","textPreview":"First item | Second item | Third item","textChars":33,"textLines":3,"bbox":[10,10,600,300]}
+{"kind":"notes","id":"nt/nr4mc9","slide":1,"text":""}
