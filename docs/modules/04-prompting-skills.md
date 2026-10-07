@@ -7,34 +7,8 @@ description: Write clear, bounded prompts and review the result against an appro
 
 # Prompting Skills for DWIHN Roles
 
-<p class="module-lede">A useful prompt explains the task, supplies permitted context, and sets clear boundaries. A strong prompt improves the output, but it never replaces permission checks or human review.</p>
-
-<div class="module-meta">
-  <span><strong>Audience:</strong> All staff</span>
-  <span><strong>Prerequisites:</strong> Modules 1-3</span>
-  <span><strong>Level:</strong> Beginner to intermediate</span>
-  <span><strong>Evidence:</strong> Revised prompt</span>
-</div>
-
-## Module Overview
-
-This module teaches a repeatable way to give AI clear, safe, and useful instructions. It is important because prompt quality affects the usefulness of a draft, while permissions, source accuracy, and human review still determine whether the result can be used.
-
-## Learning objectives
-
-By the end of this module, learners can:
-
-- Build a prompt using role, task, context, format, and constraint.
-- Replace vague requests with clear, testable instructions.
-- Use only information permitted for the selected tool and workflow.
-- Review an output for accuracy, completeness, tone, and unsupported additions.
-
-## Module Content
-
-1. The five-part prompt anatomy
-2. Prompts for different DWIHN roles
-3. Improving a weak prompt
-4. Reviewing results and correcting common mistakes
+### Previous Class Recap
+In the previous session on Prompting Skills, we focused on how to effectively communicate with AI systems. We learned to provide clear instructions, assign specific roles, establish context, and enforce strict constraints to minimize hallucinations and generate high-quality outputs.
 
 ### 1. The five-part prompt anatomy
 
@@ -269,3 +243,14 @@ The prompt says: "Analyze the decrease and explain the cause." The dataset shows
 :::
 
 <div class="checkpoint"><strong>Project evidence:</strong> Write a five-part prompt for the continuing case. Annotate each component and list the facts that must be verified in the output.</div>
+
+### Deep Dive: Extensive Core Teaching & Application
+
+#### Part 1: Comprehensive Theory & Framework
+In this segment, we go beyond surface-level definitions. **Daily Workflows** requires a nuanced understanding. 
+* **The 'Why':** Why is Daily Workflows critical for our network? Because it directly impacts our efficiency and accuracy.
+* **The Architecture:** We will break down the underlying mechanics. When you execute a task related to Daily Workflows, you are interacting with multiple layers of compliance, data mapping, and AI prediction. 
+* **Real-World Impact:** We will review a detailed case study where improper handling of Daily Workflows led to administrative bottlenecks, and how the new framework resolves it.
+
+### Next Session Preview
+In the next session, we will introduce Lumenore 'Ask Me'. We will learn how to bypass traditional spreadsheets by using Natural Language Processing (NLP) to ask plain English questions directly to our secure databases to retrieve immediate, accurate operational metrics.

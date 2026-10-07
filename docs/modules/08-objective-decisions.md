@@ -7,34 +7,8 @@ description: Separate observations from explanations and make transparent, evide
 
 # Objective Decisions with Data
 
-<p class="module-lede">Data can show what was recorded. It does not automatically explain why something happened or which action is best. Responsible decisions make evidence, assumptions, uncertainty, and consequences visible.</p>
-
-<div class="module-meta">
-  <span><strong>Audience:</strong> Managers, analysts, and decision-makers</span>
-  <span><strong>Prerequisites:</strong> Modules 1-6</span>
-  <span><strong>Level:</strong> Intermediate to advanced</span>
-  <span><strong>Evidence:</strong> Reviewed recommendation</span>
-</div>
-
-## Module Overview
-
-This module teaches learners to move from a chart or AI-generated insight to a transparent, evidence-based decision. It is important because data can show a pattern without proving its cause, and predictions require validation, fairness checks, and monitoring.
-
-## Learning objectives
-
-By the end of this module, learners can:
-
-- Distinguish an observation, interpretation, hypothesis, and prediction.
-- Evaluate denominators, missing records, sample size, periods, and data changes.
-- Consider alternative explanations and fairness before recommending action.
-- Communicate evidence, limitations, ownership, and a review measure.
-
-## Module Content
-
-1. Creating a single source of truth
-2. Reading and presenting trend analysis
-3. Understanding predictive insights
-4. Running a data-driven meeting
+### Previous Class Recap
+In the previous session on Alerts & Reports, we learned how to automate data monitoring. We covered setting up Smart Alerts for critical metrics and scheduling automated reports to ensure stakeholders receive timely, data-driven insights without manual effort.
 
 ### 1. Creating a single source of truth
 
@@ -250,3 +224,14 @@ Check metric definitions, reporting periods, filters, refresh dates, source syst
 :::
 
 <div class="checkpoint"><strong>Project evidence:</strong> Prepare a one-page recommendation for the continuing case. Separate observations, possible explanations, evidence gaps, proposed action, fairness considerations, and review measure.</div>
+
+### Deep Dive: Extensive Core Teaching & Application
+
+#### Part 1: Comprehensive Theory & Framework
+In this segment, we go beyond surface-level definitions. **Genesys AI** requires a nuanced understanding. 
+* **The 'Why':** Why is Genesys AI critical for our network? Because it directly impacts our efficiency and accuracy.
+* **The Architecture:** We will break down the underlying mechanics. When you execute a task related to Genesys AI, you are interacting with multiple layers of compliance, data mapping, and AI prediction. 
+* **Real-World Impact:** We will review a detailed case study where improper handling of Genesys AI led to administrative bottlenecks, and how the new framework resolves it.
+
+### Next Session Preview
+In the next session, we will cover the Single Source of Truth (SSOT). We will learn why unified data governance is essential for a large network like DWIHN, ensuring that all departments rely on the same synchronized data to make strategic, network-wide decisions.

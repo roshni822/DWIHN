@@ -7,38 +7,8 @@ description: Select an authorized tool and confirm that the account, data, task,
 
 # Approved Tools and HIPAA Safety
 
-<p class="module-lede">A tool can be approved for one purpose without being approved for every account, information type, or workflow. Safe use begins with permission, not with the prompt.</p>
-
-<div class="module-meta">
-  <span><strong>Audience:</strong> All staff</span>
-  <span><strong>Prerequisite:</strong> Module 1</span>
-  <span><strong>Level:</strong> Beginner</span>
-  <span><strong>Evidence:</strong> Go/no-go decisions</span>
-</div>
-
-## Module Overview
-
-This module explains how to choose an approved AI tool and determine whether a specific account, information type, task, sharing method, and destination are permitted. It is important because a tool can be approved for one purpose while remaining unsuitable for another.
-
-::: warning DWIHN confirmation required
-Replace generic examples in this module with DWIHN's current approved-tool catalog, HIPAA/privacy guidance, account requirements, and help route before delivery.
-:::
-
-## Learning objectives
-
-By the end of this module, learners can:
-
-- Explain why "approved tool" does not mean "approved for everything."
-- Check the tool, account, information, task, sharing, and destination.
-- Pause and use the designated help route when permission is unclear.
-- Apply the same protection to AI outputs that applies to their content.
-
-## Module Content
-
-1. The DWIHN approved tool catalog
-2. HIPAA and privacy boundaries
-3. Data sensitivity and the four classification tiers
-4. Preventing and responding to rule violations
+### Previous Class Recap
+In the previous session on AI Foundations, we defined Generative AI as a statistical prediction engine—not a human brain. We covered how Large Language Models use probability to generate text, the difference between search engines and AI, and established the core rule that AI is a capable assistant requiring strict human supervision.
 
 ### 1. The DWIHN approved tool catalog
 
@@ -265,3 +235,14 @@ People receiving behavioral-health services may have little visibility into how 
 :::
 
 <div class="checkpoint"><strong>Project evidence:</strong> Identify the approved tool, account, allowed information, authorized task, reviewer, and destination for the fictional workflow selected in Module 1.</div>
+
+### Deep Dive: Extensive Core Teaching & Application
+
+#### Part 1: Comprehensive Theory & Framework
+In this segment, we go beyond surface-level definitions. **HIPAA Safety** requires a nuanced understanding. 
+* **The 'Why':** Why is HIPAA Safety critical for our network? Because it directly impacts our efficiency and accuracy.
+* **The Architecture:** We will break down the underlying mechanics. When you execute a task related to HIPAA Safety, you are interacting with multiple layers of compliance, data mapping, and AI prediction. 
+* **Real-World Impact:** We will review a detailed case study where improper handling of HIPAA Safety led to administrative bottlenecks, and how the new framework resolves it.
+
+### Next Session Preview
+In the next session, we will dive into Prompting Skills. We will learn the anatomy of a perfect prompt, including how to set specific roles, provide necessary context, and apply constraints to ensure the AI generates accurate, highly tailored, and useful outputs for your daily work.

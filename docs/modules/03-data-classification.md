@@ -7,38 +7,8 @@ description: Recognize information sensitivity and choose the correct handling a
 
 # Data Classification in Practice
 
-<p class="module-lede">Classification is a decision about how information must be accessed, used, stored, and shared. The label matters because it changes what a learner may do next.</p>
-
-<div class="module-meta">
-  <span><strong>Audience:</strong> All staff</span>
-  <span><strong>Prerequisite:</strong> Module 2</span>
-  <span><strong>Level:</strong> Beginner</span>
-  <span><strong>Evidence:</strong> Classification decisions</span>
-</div>
-
-## Module Overview
-
-This module teaches learners to recognize the sensitivity of information before they access, enter, store, export, or share it. It is important because correct tool use depends on understanding the content itself, including details hidden in screenshots, attachments, and free text.
-
-::: warning DWIHN confirmation required
-The proposal names four tiers but does not define their exact boundaries or handling rules. Insert DWIHN's approved definitions and required actions before delivery.
-:::
-
-## Learning objectives
-
-By the end of this module, learners can:
-
-- Describe the purpose of information classification.
-- Apply the confirmed DWIHN tiers to realistic examples.
-- Recognize sensitive details hidden in screenshots, attachments, and free text.
-- Choose an allowed action or escalate an uncertain case.
-
-## Module Content
-
-1. Public, internal, confidential, and restricted information
-2. The wallet analogy and memory techniques
-3. Classification decision scenarios
-4. The quick-reference desk card
+### Previous Class Recap
+In the previous session on HIPAA Safety, we differentiated between Consumer AI and secure Enterprise AI, and explored the DWIHN Approved Tool Catalog. We learned the Four Data Classification Tiers (Public, Internal, Confidential, Restricted) using the 'Wallet Analogy', establishing that Protected Health Information (PHI) can never enter unapproved public AI tools.
 
 ### 1. Public, internal, confidential, and restricted information
 
@@ -271,3 +241,14 @@ Use the fully fictional case note created for training. It meets the learning pu
 :::
 
 <div class="checkpoint"><strong>Project evidence:</strong> Create an inventory of every fictional input and output in the selected workflow. Assign a proposed classification and state the handling decision that follows.</div>
+
+### Deep Dive: Extensive Core Teaching & Application
+
+#### Part 1: Comprehensive Theory & Framework
+In this segment, we go beyond surface-level definitions. **Prompting Skills** requires a nuanced understanding. 
+* **The 'Why':** Why is Prompting Skills critical for our network? Because it directly impacts our efficiency and accuracy.
+* **The Architecture:** We will break down the underlying mechanics. When you execute a task related to Prompting Skills, you are interacting with multiple layers of compliance, data mapping, and AI prediction. 
+* **Real-World Impact:** We will review a detailed case study where improper handling of Prompting Skills led to administrative bottlenecks, and how the new framework resolves it.
+
+### Next Session Preview
+In the next session, we will explore Daily Workflows. We will move beyond theory to look at highly specific, practical use cases for AI at DWIHN, such as drafting complex communications, summarizing lengthy state compliance documents, and organizing action items from meetings.

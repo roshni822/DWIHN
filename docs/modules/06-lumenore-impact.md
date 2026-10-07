@@ -7,40 +7,8 @@ description: Ask precise questions, verify governed metrics, and communicate das
 
 # Lumenore Impact Deep Dive
 
-<p class="module-lede">A dashboard can answer a carefully defined question. It cannot decide what a metric means, prove why a change happened, or replace the learner's responsibility to verify filters, definitions, and context.</p>
-
-<div class="module-meta">
-  <span><strong>Audience:</strong> Authorized analysts, program managers, and leaders</span>
-  <span><strong>Prerequisites:</strong> Modules 1-5</span>
-  <span><strong>Level:</strong> Intermediate</span>
-  <span><strong>Evidence:</strong> Verified dashboard insight</span>
-</div>
-
-## Module Overview
-
-This module develops practical Lumenore skills for asking data questions, reading results, working with dashboards, investigating service gaps, configuring supported alerts, and preparing reviewed reports. It is important because decisions depend on correct measures, filters, reporting periods, and definitions.
-
-::: warning Environment confirmation required
-Confirm the enabled Lumenore features, training accounts, permissions, metric dictionary, datasets, export rules, and alert functions in DWIHN's environment before delivery.
-:::
-
-## Learning objectives
-
-By the end of this module, authorized learners can:
-
-- Navigate the confirmed Lumenore workspace and locate governed content.
-- Ask a data question with a measure, population, period, and comparison.
-- Verify definitions, denominators, filters, freshness, and source records.
-- Explain a trend without presenting an unsupported cause.
-- Prepare a reviewed report or alert using enabled features.
-
-## Module Content
-
-1. Asking questions with Ask Me
-2. Building and reading a dashboard
-3. Investigating service gaps
-4. Setting and responding to alerts
-5. Exporting reviewed reports
+### Previous Class Recap
+In the previous session on Lumenore 'Ask Me', we introduced DWIHN's primary data analytics tool. We learned how to use Natural Language Processing to ask plain English questions about complex datasets, allowing for rapid data retrieval without needing to know SQL or advanced database querying.
 
 ### 1. Asking questions with Ask Me
 
@@ -289,3 +257,14 @@ The current partial-month value is lower than the completed previous-month value
 :::
 
 <div class="checkpoint"><strong>Project evidence:</strong> Produce a verified insight for the continuing case. Include the exact question, governed measure, filters, freshness, observation, limitation, and next question.</div>
+
+### Deep Dive: Extensive Core Teaching & Application
+
+#### Part 1: Comprehensive Theory & Framework
+In this segment, we go beyond surface-level definitions. **Dashboards Mapping** requires a nuanced understanding. 
+* **The 'Why':** Why is Dashboards Mapping critical for our network? Because it directly impacts our efficiency and accuracy.
+* **The Architecture:** We will break down the underlying mechanics. When you execute a task related to Dashboards Mapping, you are interacting with multiple layers of compliance, data mapping, and AI prediction. 
+* **Real-World Impact:** We will review a detailed case study where improper handling of Dashboards Mapping led to administrative bottlenecks, and how the new framework resolves it.
+
+### Next Session Preview
+In the next session, we will discuss Alerts and Reports. We will learn how to move from manual data checking to automated monitoring, setting up intelligent alerts that trigger when specific metrics hit critical thresholds, and automating routine reporting workflows.

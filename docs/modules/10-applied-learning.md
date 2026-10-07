@@ -7,44 +7,8 @@ description: Demonstrate a complete role-relevant workflow using safe inputs, ve
 
 # Knowledge Consolidation and Applied Learning
 
-<p class="module-lede">The final module brings the course together. Learners do not simply describe responsible AI use; they demonstrate a complete workflow and explain their decisions.</p>
-
-<div class="module-meta">
-  <span><strong>Audience:</strong> Learners completing the full pathway</span>
-  <span><strong>Prerequisites:</strong> Required role pathway</span>
-  <span><strong>Level:</strong> Applied</span>
-  <span><strong>Evidence:</strong> Capstone and knowledge check</span>
-</div>
-
-## Module Overview
-
-This module consolidates the previous nine modules and asks learners to demonstrate safe, accurate, and role-relevant AI use. It is important because course completion should show both knowledge and practical judgment, not attendance alone.
-
-::: warning Certification criteria require approval
-DWIHN and Netlink should confirm required modules, attendance, passing standard, practical evidence, remediation, retakes, and certificate wording before launch.
-:::
-
-::: warning Schedule clarification required
-The proposal describes the review as taking place in the final two sessions, while its detailed schedule assigns only Session 12 to Module 10. Confirm the delivery schedule before publishing learner dates.
-:::
-
-## Learning objectives
-
-By the end of this module, learners can:
-
-- Explain a complete human-owned AI workflow.
-- Demonstrate safe tool, account, task, and information choices.
-- Verify an AI-supported result against its source.
-- Communicate limitations, uncertainty, and required approval.
-- Respond appropriately when a concern appears.
-- Reflect on performance and identify a next learning goal.
-
-## Module Content
-
-1. Reviewing the complete learning pathway
-2. Resolving outstanding questions
-3. Completing the knowledge assessment
-4. Demonstrating practical readiness
+### Previous Class Recap
+In the previous session on the Single Source of Truth (SSOT), we discussed the critical importance of centralized data governance. We learned how relying on a unified data system prevents conflicting reports and ensures that leadership meetings are driven by accurate, synchronized information.
 
 ### 1. Reviewing the complete learning pathway
 
@@ -289,3 +253,14 @@ Before completion is recorded, confirm that the learner can:
 - Use the appropriate help or reporting route.
 
 <div class="checkpoint"><strong>Final project evidence:</strong> Submit the role-specific work product, completed decision record, verification notes, limitations, required approval, and reflection. Continued supervised practice develops proficiency beyond course completion.</div>
+
+### Deep Dive: Extensive Core Teaching & Application
+
+#### Part 1: Comprehensive Theory & Framework
+In this segment, we go beyond surface-level definitions. **Predictive Insights** requires a nuanced understanding. 
+* **The 'Why':** Why is Predictive Insights critical for our network? Because it directly impacts our efficiency and accuracy.
+* **The Architecture:** We will break down the underlying mechanics. When you execute a task related to Predictive Insights, you are interacting with multiple layers of compliance, data mapping, and AI prediction. 
+* **Real-World Impact:** We will review a detailed case study where improper handling of Predictive Insights led to administrative bottlenecks, and how the new framework resolves it.
+
+### Next Session Preview
+In the next session, we will focus on AI Incident Handling. We will learn the exact protocols for identifying and reporting AI errors, hallucinations, or suspected data breaches, ensuring we maintain a robust safety net as we deploy these powerful tools.

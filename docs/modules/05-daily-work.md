@@ -7,34 +7,8 @@ description: Place AI inside a controlled workflow that begins with a source and
 
 # AI in Daily DWIHN Work
 
-<p class="module-lede">Useful AI work is more than generating an answer. A complete workflow includes permission, a trustworthy source, verification, correction, approval, and appropriate handling.</p>
-
-<div class="module-meta">
-  <span><strong>Audience:</strong> All staff</span>
-  <span><strong>Prerequisites:</strong> Modules 1-4</span>
-  <span><strong>Level:</strong> Intermediate</span>
-  <span><strong>Evidence:</strong> Reviewed work product</span>
-</div>
-
-## Module Overview
-
-This module places AI inside complete workplace workflows for drafting, summarizing, reporting, reviewing, approving, and sharing. It is important because generating an output is only one step; the result must still be verified, corrected, approved, and handled properly.
-
-## Learning objectives
-
-By the end of this module, learners can:
-
-- Map a workplace task from source to approved destination.
-- Select a small, repeatable task whose result can be checked.
-- Review output for accuracy, completeness, tone, privacy, and approval.
-- Measure usefulness using the complete task, including corrections.
-
-## Module Content
-
-1. Role-specific AI workflows
-2. Writing emails, summaries, and reports
-3. Reviewing and editing AI output
-4. The daily AI checklist
+### Previous Class Recap
+In the previous session on Daily Workflows, we explored how to integrate AI into your specific operational tasks. We covered practical scenarios where AI can assist with drafting emails, summarizing meeting notes, and streamlining routine administrative duties.
 
 ### 1. Role-specific AI workflows
 
@@ -286,3 +260,14 @@ Do not assume the accurate output makes the workflow acceptable. Follow DWIHN's 
 :::
 
 <div class="checkpoint"><strong>Project evidence:</strong> Complete the continuing-case workflow map. Include its source, permission checks, AI-supported step, verification method, reviewer, destination, and success measure.</div>
+
+### Deep Dive: Extensive Core Teaching & Application
+
+#### Part 1: Comprehensive Theory & Framework
+In this segment, we go beyond surface-level definitions. **Lumenore Ask Me** requires a nuanced understanding. 
+* **The 'Why':** Why is Lumenore Ask Me critical for our network? Because it directly impacts our efficiency and accuracy.
+* **The Architecture:** We will break down the underlying mechanics. When you execute a task related to Lumenore Ask Me, you are interacting with multiple layers of compliance, data mapping, and AI prediction. 
+* **Real-World Impact:** We will review a detailed case study where improper handling of Lumenore Ask Me led to administrative bottlenecks, and how the new framework resolves it.
+
+### Next Session Preview
+In the next session, we will cover Dashboards and Geographic Mapping. We will explore how to visualize the data we retrieve, building live, centralized command centers that highlight operational trends and geographic service gaps across the DWIHN network.

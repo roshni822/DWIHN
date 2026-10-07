@@ -7,39 +7,8 @@ description: Recognize AI-related concerns, record useful facts, and follow DWIH
 
 # AI Governance and Incident Handling
 
-<p class="module-lede">Governance makes responsibility visible: who approves AI use, who maintains guidance, who monitors results, and who responds when something goes wrong. Employees support governance by following approved workflows and reporting concerns promptly.</p>
-
-<div class="module-meta">
-  <span><strong>Audience:</strong> All staff; expanded duties for managers</span>
-  <span><strong>Prerequisites:</strong> Modules 1-5</span>
-  <span><strong>Level:</strong> Intermediate</span>
-  <span><strong>Evidence:</strong> Incident simulation</span>
-</div>
-
-## Module Overview
-
-This module explains who owns AI decisions, how employees recognize concerns, what facts should be recorded, and how confirmed response procedures are followed. It is important because early reporting and clear accountability protect people, information, and organizational trust.
-
-::: danger Insert the confirmed DWIHN process
-The proposal refers to a five-step process and a 24-hour response but does not supply the governing procedure. Do not teach either claim until DWIHN confirms the steps, contacts, immediate actions, documentation, and timelines.
-:::
-
-## Learning objectives
-
-By the end of this module, learners can:
-
-- Explain the purpose of AI governance and their role within it.
-- Distinguish an ordinary tool error, output-quality problem, policy concern, and suspected information exposure.
-- Record useful facts without conducting an unauthorized investigation.
-- Follow DWIHN's confirmed immediate-action and reporting process.
-- Describe how lessons from concerns can improve training and controls.
-
-## Module Content
-
-1. The AI governance committee
-2. Recognizing an AI-related concern
-3. Following the confirmed incident process
-4. Manager responsibilities
+### Previous Class Recap
+In the previous session on Genesys AI, we examined how AI optimizes the call center environment. We learned how Agent Assist listens for keywords to instantly surface relevant policies, reducing caller hold times and empowering staff to resolve issues more efficiently.
 
 ### 1. The AI governance committee
 
@@ -269,3 +238,14 @@ At approximately 2:15 p.m., I noticed that a file exported from the training acc
 :::
 
 <div class="checkpoint"><strong>Project evidence:</strong> Add preventive controls, a confirmed help route, and the appropriate escalation step to the continuing-case workflow. Explain which facts the employee would record if a concern occurred.</div>
+
+### Deep Dive: Extensive Core Teaching & Application
+
+#### Part 1: Comprehensive Theory & Framework
+In this segment, we go beyond surface-level definitions. **Single Source Truth** requires a nuanced understanding. 
+* **The 'Why':** Why is Single Source Truth critical for our network? Because it directly impacts our efficiency and accuracy.
+* **The Architecture:** We will break down the underlying mechanics. When you execute a task related to Single Source Truth, you are interacting with multiple layers of compliance, data mapping, and AI prediction. 
+* **Real-World Impact:** We will review a detailed case study where improper handling of Single Source Truth led to administrative bottlenecks, and how the new framework resolves it.
+
+### Next Session Preview
+In the next session, we will delve into Predictive Insights. We will learn how to leverage AI to analyze historical data patterns and forecast future operational needs, allowing us to shift from a reactive posture to a proactive, forward-looking strategy.

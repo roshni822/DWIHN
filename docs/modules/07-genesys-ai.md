@@ -7,40 +7,8 @@ description: Review enabled call-center AI assistance while preserving accuracy,
 
 # Genesys AI for Call-Center Excellence
 
-<p class="module-lede">Call-center AI can support documentation and information access, but transcripts, summaries, suggestions, sentiment signals, and routing outputs can be incomplete or wrong. The employee remains responsible for the approved call workflow.</p>
-
-<div class="module-meta">
-  <span><strong>Audience:</strong> Authorized call-center staff and supervisors</span>
-  <span><strong>Prerequisites:</strong> Modules 1-5</span>
-  <span><strong>Level:</strong> Intermediate</span>
-  <span><strong>Evidence:</strong> Corrected call record</span>
-</div>
-
-## Module Overview
-
-This module explains how enabled Genesys AI features may support call-center work through transcripts, summaries, knowledge suggestions, sentiment signals, and routing. It is important because these features can assist employees but can also mishear, omit, or misinterpret important information.
-
-::: warning Feature confirmation required
-Teach only Genesys features enabled and approved for each DWIHN role. Confirm transcription, summarization, knowledge, sentiment, routing, recording, retention, and correction workflows before delivery.
-:::
-
-## Learning objectives
-
-By the end of this module, authorized learners can:
-
-- Identify where enabled AI assistance appears in the call workflow.
-- Review a transcript for recognition errors and missing context.
-- Correct a summary using the approved source and process.
-- Evaluate knowledge suggestions before communicating them.
-- Treat sentiment and routing outputs as configured signals, not clinical facts.
-
-## Module Content
-
-1. Agent assistance and suggestions
-2. Transcripts and automatic call summaries
-3. Sentiment alerts
-4. Predictive routing
-5. Using the approved knowledge base
+### Previous Class Recap
+In the previous session on Dashboards & Mapping, we explored how to build centralized command centers in Lumenore. We focused on visualizing data through dynamic dashboards and using geographic mapping tools to identify service gaps and operational trends.
 
 ### 1. Agent assistance and suggestions
 
@@ -287,3 +255,14 @@ Respond to the caller's words and the approved workflow. Treat the sentiment res
 :::
 
 <div class="checkpoint"><strong>Project evidence:</strong> Correct the continuing-case call summary and document the exact transcript evidence supporting each retained or changed statement.</div>
+
+### Deep Dive: Extensive Core Teaching & Application
+
+#### Part 1: Comprehensive Theory & Framework
+In this segment, we go beyond surface-level definitions. **Alerts Reports** requires a nuanced understanding. 
+* **The 'Why':** Why is Alerts Reports critical for our network? Because it directly impacts our efficiency and accuracy.
+* **The Architecture:** We will break down the underlying mechanics. When you execute a task related to Alerts Reports, you are interacting with multiple layers of compliance, data mapping, and AI prediction. 
+* **Real-World Impact:** We will review a detailed case study where improper handling of Alerts Reports led to administrative bottlenecks, and how the new framework resolves it.
+
+### Next Session Preview
+In the next session, we will explore Genesys AI. We will focus specifically on how AI integrates into the call center environment, using live transcription and 'Agent Assist' features to empower staff to resolve caller issues faster and with greater accuracy.
